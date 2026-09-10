@@ -2,7 +2,7 @@
 title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
 collection: publications
 category: conference
-permalink: /LJT-Homepage/publication/2024-hallu
+permalink: /publication/2024-hallu
 excerpt: 'This paper proposes using in-context sharpness as alerts from an inner representation perspective for hallucination mitigation. Junteng Liu is co-author.'
 date: 2024-07-01
 venue: 'ICML 2024'

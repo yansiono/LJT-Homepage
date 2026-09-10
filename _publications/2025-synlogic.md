@@ -2,7 +2,7 @@
 title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
 category: arxiv
-permalink: /LJT-Homepage/publication/2025-synlogic
+permalink: /publication/2025-synlogic
 excerpt: 'This paper introduces SynLogic, an approach to synthesize verifiable reasoning data at scale for learning logical reasoning and beyond. Junteng Liu is first author.'
 date: 2025-06-01
 venue: 'Arxiv'
