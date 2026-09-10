@@ -1,5 +1,5 @@
 ---
-permalink: /LJT-Homepage/
+permalink: /
 title: "Junteng Liu (刘俊腾)"
 author_profile: true
 redirect_from:
